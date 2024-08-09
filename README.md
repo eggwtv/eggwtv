@@ -18,7 +18,7 @@
 
 <p align="left">
   Want to collaborate or chat about tech, art, or music? 🤝
-  <a href="https://www.linkedin.com/in/aagna-samhita-019525249/">
+  <a href="https://www.linkedin.com/in/aagna-samhita/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
