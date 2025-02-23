@@ -3,7 +3,7 @@
 <h2 align="left">About Me 🤔</h2>
 
 <p align="left">
-  I'm a 1st-year university student majoring in Big Data and AI 📊💻. When I'm not studying, you can find me exploring the world of React JS and Three.js 🌐. My passions lie in art and music 🎨🎶, and I dream of designing 3D game assets one day 🎮.
+  I'm a 2nd-year university student majoring in Big Data and AI 📊💻. When I'm not studying, you can find me exploring the world of React JS and Three.js 🌐. My passions lie in art and music 🎨🎶, and I dream of designing 3D game assets one day 🎮.
 </p>
 
 <h2 align="left">Currently Learning 📚</h2>
